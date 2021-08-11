@@ -9,7 +9,7 @@ I'm Shivangi Bose a Front End Web Developer .
 - 🔭 I’m currently student at ITER(SOA)`
 - 🤔 I’m looking for learning great stuffs online.
 - 📫 How to reach me: developer.shivangibose@gmail.com.
-- ⚡ Fun fact: I play games very often.
+- ⚡ Also I am an animal lover.
 
 #### Top Technologies
 
@@ -22,7 +22,7 @@ I'm Shivangi Bose a Front End Web Developer .
 
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/shivangibose/shivangibose/blob/master/resumes/forportfolio.pdf)
+- :paperclip: [My Resume/CV](https://github.com/shivangibose/shivangibose/blob/master/resume/MY_CV.pdf)
 - :email: developer.shivangibose@gmail.com
 
 
