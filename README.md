@@ -6,10 +6,10 @@ I'm Shivangi Bose a Front End Web Developer .
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently student at ITER(SOA)`
-- 🤔 I’m looking for learning great stuffs online.
+- 🔭 I am currently a student at ITER(SOA)`
+- 🤔 Front-end Developer
 - 📫 How to reach me: developer.shivangibose@gmail.com.
-- ⚡ Also I am an animal lover.
+- ⚡ Animal lover.
 
 #### Top Technologies
 
