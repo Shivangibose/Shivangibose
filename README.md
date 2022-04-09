@@ -7,7 +7,6 @@ I'm Shivangi Bose a Front End Web Developer .
 <!-- TODO: Add last video link -->
 
 - 🔭 I am currently a student at ITER(SOA)`
-- 🤔 Front-end Developer
 - 📫 How to reach me: developer.shivangibose@gmail.com.
 - ⚡ Animal lover.
 
