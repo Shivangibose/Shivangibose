@@ -1,34 +1,34 @@
-## Hi I'm Shivangi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hi, I'm Shivangi 👋
 
-I'm Shivangi Bose a Front End Web Developer .
+**SDET | QA Automation Engineer** building reliable, maintainable test automation.
 
-[![Twitter Badge](https://img.shields.io/badge/-@ShivangiBose-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@MayankS01691829)](https://twitter.com/BoseShivangi) [![Linkedin Badge](https://img.shields.io/badge/-Shivangi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivangi-bose-856b56202) [![Mail Badge](https://img.shields.io/badge/-@ShivangiBose-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_shivangi_bose_ ) [![Mail Badge](https://img.shields.io/badge/-Shivangi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:developer.shivangibose@gmail.com)
+I'm a Software Development Engineer in Test with 2+ years of experience designing low-code, data-driven automation frameworks for enterprise applications. I work across UI, API, and data/ETL testing — currently at Carelon Global Solutions.
 
-<!-- TODO: Add last video link -->
+- 🔭 Currently building **low-code hybrid automation frameworks** (Cucumber + Playwright/REST Assured, driven by JSON config)
+- 🌱 Deepening my work with Playwright, API contract testing, and CI/CD pipelines
+- �",  Focused on test architecture that lets teams add coverage without writing code
+- 📫 Reach me: **shivangib609@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/shivangi-bose](https://linkedin.com/in/shivangi-bose)
 
-- 🔭 I am currently a student at ITER(SOA)`
-- 📫 How to reach me: developer.shivangibose@gmail.com.
-- ⚡ Animal lover.
+---
 
-#### Top Technologies
+### 🛠️ Tech & Tools
 
-<!-- TODO: Make technologies links takes you to repositories -->
+**Languages:** Java · Python · SQL
+**Test Automation:** Selenium WebDriver · Playwright · Cucumber (BDD) · TestNG · JUnit
+**API Testing:** REST Assured · Postman · JSON Schema Validation
+**Data & DB:** Snowflake · SQL · ETL / Data Validation
+**CI/CD & Tools:** GitHub Actions · Jenkins · Git · Maven
 
-[![Java Badge](https://img.shields.io/badge/-Java-61DBFB?style=for-the-badge&labelColor=black&logo=java&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![CSS Badge](https://img.shields.io/badge/-Css-007acc?style=for-the-badge&labelColor=black&logo=css3&logoColor=007acc)](#) [![Html Badge](https://img.shields.io/badge/-html-3C873A?style=for-the-badge&labelColor=black&logo=html5&logoColor=3C873A)](#) [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-e535ab?style=for-the-badge&labelColor=black&logo=Bootstrap&logoColor=e535ab)](#)
+---
 
+### 📌 Featured Projects
 
+- **Low-Code Hybrid API Testing Framework** — Cucumber + REST Assured, with API test cases defined in external JSON config so testers add coverage without writing Java.
+- **Low-Code Hybrid Playwright UI Framework** — Cucumber + Playwright (Java), with locators and test data in JSON, generic reusable step definitions, and auto-waiting for low flakiness.
 
+*(Pinned below — see repositories for details and READMEs.)*
 
+---
 
-#### Bizness
-- :paperclip: [My Resume/CV](https://github.com/shivangibose/shivangibose/blob/master/resume/MY_CV.pdf)
-- :email: developer.shivangibose@gmail.com
-
-
-#### Profile Visits 
-
-![Shivangi's github stats](https://github-readme-stats.vercel.app/api?username=shivangibose&&show_icons=true&title_color=EDEDED&icon_color=DA0037&text_color=66DE93&bg_color=171717)
-
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Shivangibose.Shivangibose)
+⚡ Animal lover 🐾 | ITER (SOA University), CSE 2023
